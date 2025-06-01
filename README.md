@@ -1,6 +1,4 @@
-Sure! Here’s a clean, professional README.md tailored for your **Daya** agent, ready for GitHub upload:
 
-````markdown
 # Daya — AI Assistant for Women's Safety and Support
 
 **Daya** is an intelligent AI agent designed to assist women with safety, legal awareness, emotional support, and daily wellbeing.  
